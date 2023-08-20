@@ -1,0 +1,17 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "blog_id": 4,
+      "name": "Mario",
+      "comment": "Das ist super!"
+    },
+
+    {
+      "id": 2,
+      "blog_id": 4,
+      "name": "Ziad",
+      "comment": "Danke!"
+    }
+  ]
+}

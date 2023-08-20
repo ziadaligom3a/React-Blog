@@ -1,0 +1,94 @@
+{
+  "blogs": [
+    {
+      "id": 2,
+      "title": "My blog",
+      "author": "Ziad Ali",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta in risus a sodales. Sed malesuada finibus aliquet. Aenean porta nisi eu justo fringilla pulvinar. Nunc mauris urna, tincidunt in consectetur nec, condimentum eget tortor. Quisque a metus non felis faucibus eleifend. Morbi ut varius est. Duis gravida, erat fringilla accumsan ullamcorper, odio turpis vulputate dui, commodo ultrices sem ipsum in nulla. Nunc dictum odio est, a dapibus ante ornare in. Sed eget consequat nibh. Phasellus ullamcorper pretium porta.",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mario",
+          "comment": "Also das ist dein zweiter Blog?"
+        },
+        {
+          "id": 2,
+          "name": "Ziad",
+          "comment": "Ja das ist richtig."
+        }
+      ]
+    },
+    {
+      "title": "Mein zweiter Blog",
+      "body": "Hallo, das ist mein zweiter Blog.",
+      "author": "ziad",
+      "id": 4,
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mario",
+          "comment": "Also das ist dein zweiter Blog?"
+        },
+        {
+          "id": 2,
+          "name": "ziad",
+          "comment": "Ja das ist richtig."
+        }
+      ]
+    },
+    {
+      "title": "That'e me, Mario",
+      "body": "Hallo alle zusammen",
+      "author": "Mario",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mario",
+          "comment": "Also das ist dein zweiter Blog?"
+        },
+        {
+          "id": 2,
+          "name": "ziad",
+          "comment": "Ja das ist richtig."
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "That's me Agaaain",
+      "body": "That's me Agaaain",
+      "author": "Mario",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mario",
+          "comment": "Also das ist dein zweiter Blog?"
+        },
+        {
+          "id": 2,
+          "name": "ziad",
+          "comment": "Ja das ist richtig."
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "How can i hack this fckn blog?",
+      "body": "I want to hack it.",
+      "author": "ziad",
+      "comments": [
+        {
+          "id": 1,
+          "name": "Mario",
+          "comment": "Also das ist dein zweiter Blog?"
+        },
+        {
+          "id": 2,
+          "name": "ziad",
+          "comment": "Ja das ist richtig."
+        }
+      ],
+      "id": 7
+    }
+  ]
+}

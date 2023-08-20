@@ -1,0 +1,8 @@
+{
+  "rewriter": [
+    {
+      "source": "/blogs/:id/comments",
+      "destination": "/blogs"
+    }
+  ]
+}
